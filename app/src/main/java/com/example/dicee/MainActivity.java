@@ -12,6 +12,8 @@ import java.util.Random;
 
 // hi its lemon
 
+// second comments add by lemon
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
