@@ -10,6 +10,8 @@ import android.widget.ImageView;
 
 import java.util.Random;
 
+// hi its lemon
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
